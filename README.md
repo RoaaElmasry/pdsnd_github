@@ -10,5 +10,10 @@ Using python, user can git information about the bikeshare system in three citie
 ### Files used
 I used 3 csv files (Chicago.csv, New_York_City.csv, Washington.csv )
 
+### How to run
+```
+python bikeshare.py
+```
+
 
 
