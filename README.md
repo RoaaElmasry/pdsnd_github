@@ -15,7 +15,7 @@ I used 3 csv files (Chicago.csv, New_York_City.csv, Washington.csv )
 python bikeshare.py
 ```
 ### Tools
-pandas, python
+pandas,python
 
 
 
